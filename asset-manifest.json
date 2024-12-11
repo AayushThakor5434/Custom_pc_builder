@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Custom_pc_builder/static/css/main.b70f069e.css",
+    "main.js": "/Custom_pc_builder/static/js/main.fc5011bd.js",
+    "static/js/488.2cef4951.chunk.js": "/Custom_pc_builder/static/js/488.2cef4951.chunk.js",
+    "index.html": "/Custom_pc_builder/index.html",
+    "main.b70f069e.css.map": "/Custom_pc_builder/static/css/main.b70f069e.css.map",
+    "main.fc5011bd.js.map": "/Custom_pc_builder/static/js/main.fc5011bd.js.map",
+    "488.2cef4951.chunk.js.map": "/Custom_pc_builder/static/js/488.2cef4951.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70f069e.css",
+    "static/js/main.fc5011bd.js"
+  ]
+}
